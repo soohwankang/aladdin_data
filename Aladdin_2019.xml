@@ -1,0 +1,5071 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PLAY>
+  <TITLE>Aladdin (2019)</TITLE>
+  <PERSONAE>
+    <TITLE>Dramatis Personae</TITLE>
+    <PERSONA>Omar</PERSONA>
+    <PERSONA>Lian</PERSONA>
+    <PERSONA>Genie</PERSONA>
+    <PERSONA>Dalia</PERSONA>
+    <PERSONA>Cave Of Wonders</PERSONA>
+    <PERSONA>Women 1</PERSONA>
+    <PERSONA>Aladdin</PERSONA>
+    <PERSONA>Abu</PERSONA>
+    <PERSONA>Zulla</PERSONA>
+    <PERSONA>Boy 1</PERSONA>
+    <PERSONA>Jasmine</PERSONA>
+    <PERSONA>Children</PERSONA>
+    <PERSONA>Jamal</PERSONA>
+    <PERSONA>Guards</PERSONA>
+    <PERSONA>Women</PERSONA>
+    <PERSONA>Woman</PERSONA>
+    <PERSONA>Crowd</PERSONA>
+    <PERSONA>Lady</PERSONA>
+    <PERSONA>Iago</PERSONA>
+    <PERSONA>Jafar</PERSONA>
+    <PERSONA>Guard</PERSONA>
+    <PERSONA>Prisoner</PERSONA>
+    <PERSONA>MAN 1</PERSONA>
+    <PERSONA>Sultan</PERSONA>
+    <PERSONA>Prince Anders</PERSONA>
+    <PERSONA>Rajah</PERSONA>
+    <PERSONA>Man</PERSONA>
+    <PERSONA>Prince</PERSONA>
+    <PERSONA>Aladdin+Jasmine</PERSONA>
+    <PERSONA>Hakim</PERSONA>
+    <PERSONA>Imam</PERSONA>
+  </PERSONAE>
+  <SCENE>
+    <TITLE>SCENE 1</TITLE>
+    <STAGEDIR>Man shouting indistinctly</STAGEDIR>
+    <SPEECH>
+      <SPEAKER>Omar</SPEAKER>
+      <RECEIVER>Lian</RECEIVER>
+      <LINE>Hey, look, over there!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Lian</SPEAKER>
+      <RECEIVER>Omar</RECEIVER>
+      <LINE>Wow! Their ship is so big.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Omar</SPEAKER>
+      <RECEIVER>Lian</RECEIVER>
+      <LINE>Wish ours was that fancy.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Lian</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I'd be so happy if ours was that fancy cause then...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Omar</RECEIVER>
+      <LINE>Why is that? 'Cause is looks better? This boat has seen us through many storms. It may not look like much but, it has something theirs never will</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Omar</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>What? Wood rot and rats?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Are the children learning something, dear?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Lian</RECEIVER>
+      <LINE>It is unclear. All right, sit, children. I think it's time that I told you the story of Aladdin, the Princess, and the lamp.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Lian</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>What's so special about a lamp?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Lian</RECEIVER>
+      <LINE>Oh, this is a magic lamp.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Lian</SPEAKER>
+      <RECEIVER>Omar</RECEIVER>
+      <LINE>Maybe if you sing.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Omar</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>It's better when you sing.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>No, no. No singing. It's been a long day.</LINE>
+    </SPEECH>
+    <STAGEDIR>Start song: Arabian night</STAGEDIR>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Oh, imagine a land</LINE>
+      <LINE>It's a faraway place</LINE>
+      <LINE>Where the caravan camels roam</LINE>
+      <LINE>Where you wander among every culture and tongue</LINE>
+      <LINE>It's chaotic, but hey, it's home.</LINE>
+      <LINE>When the wind's from the east and the sun's from the west</LINE>
+      <LINE>And the sand in the glass is right</LINE>
+      <LINE>Come on down, stop on by</LINE>
+      <LINE>Hop a carpet and fly</LINE>
+      <LINE>To another Arabian night</LINE>
+    </SPEECH>
+    <STAGEDIR>Indistinct chatter</STAGEDIR>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>As you wind through the streets</LINE>
+      <LINE>At the fabled bazaars</LINE>
+      <LINE>With the cardamom-cluttered stalls</LINE>
+      <LINE>You can smell every spice</LINE>
+      <LINE>While you haggle the price</LINE>
+      <LINE>Of the silks and the satin shawls</LINE>
+      <LINE>Oh, the music that plays</LINE>
+      <LINE>As you move through a maze</LINE>
+      <LINE>In the haze of your pure delight</LINE>
+      <LINE>You are caught in a dance</LINE>
+      <LINE>You are lost in the trance</LINE>
+      <LINE>Of another Arabian night</LINE>
+      <LINE>Arabian nights</LINE>
+      <LINE>Like Arabian days</LINE>
+      <LINE>More often than not</LINE>
+      <LINE>Are hotter than hot In a lot of good ways</LINE>
+      <LINE>Arabian nights</LINE>
+      <LINE>Like Arabian dreams</LINE>
+      <LINE>This mystical land</LINE>
+      <LINE>Of magic and sand</LINE>
+      <LINE>Is more than it seems</LINE>
+      <LINE>There’s a road that may lead you</LINE>
+      <LINE>To good or to greed through</LINE>
+      <LINE>The power your wishing commands</LINE>
+      <LINE>Let the darkness unfold</LINE>
+      <LINE>Or find fortunes untold</LINE>
+      <LINE>Well, your destiny lies in your hands</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Cave Of Wonders</SPEAKER>
+      <RECEIVER>Cave Of Wonders</RECEIVER>
+      <LINE>Only one may enter here. One whose worth lies far within. A diamond in the rough.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Cave Of Wonders</RECEIVER>
+      <LINE>Arabian nights</LINE>
+      <LINE>Like Arabian days</LINE>
+      <LINE>They seem to excite</LINE>
+      <LINE>Take off and take flight</LINE>
+      <LINE>To shock and amaze</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Cave Of Wonders</SPEAKER>
+      <RECEIVER>Cave Of Wonders</RECEIVER>
+      <LINE>Seek me out. The diamond in the rough.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <LINE>Arabian nights</LINE>
+      <LINE>'Neath Arabian moons</LINE>
+      <LINE>A fool off his guard</LINE>
+      <LINE>Could fall and fall hard</LINE>
+      <LINE>Out there on the dunes</LINE>
+    </SPEECH>
+    <STAGEDIR>Indistinct chatter</STAGEDIR>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 2</TITLE>
+    <SPEECH>
+      <SPEAKER>Women 1</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What's your monkey's name?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Women 1</RECEIVER>
+      <LINE>Abu.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Women 1</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>He's a lovely monkey.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Women 1</RECEIVER>
+      <LINE>Mm, that's a lovely necklace.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Women 1</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>So, where does Abu come from?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Abu</RECEIVER>
+      <LINE>He, uh... Oh! I think this... belongs to me. Good day, ladies. Okay. How'd we do, Abu? Good monkey.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Abu</SPEAKER>
+      <LINE>(Chitters)</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 3</TITLE>
+    <SPEECH>
+      <SPEAKER>Zulla</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Stop right there, Aladdin. Whatever it is you stole today, I don't want it.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Zulla</RECEIVER>
+      <LINE>Whoa, whoa, I didn't steal anything. It's a family heirloom that's worth a lot of...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Zulla</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I'll give you a bag of dates for it, nothing more.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Zulla</RECEIVER>
+      <LINE>Zulla, we both know it's worth at least three bags.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Zulla</SPEAKER>
+      <LINE>Take a bag of dates and get out!</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 4</TITLE>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Boy 1</RECEIVER>
+      <LINE>Here you go, Abu.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Boy 1</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>(Look up Aladdin)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <LINE>Shh.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 5</TITLE>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Children</RECEIVER>
+      <LINE>Hello, Hi. Are you hungry?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Children</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Mm-hmm.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Jamal</RECEIVER>
+      <LINE>Here, take some bread.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jamal</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Hey. Hey! You steal from my brother.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Jamal</RECEIVER>
+      <LINE>Stealing? No, I...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jamal</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>You pay or I take bracelet.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Jamal</RECEIVER>
+      <LINE>Sir, I don't have any money. Let go of me! No.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jamal</RECEIVER>
+      <LINE>Take it easy, Jamal.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jamal</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Khalil walks away from the stall, and this one... this one... she steal the bread!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Jamal</RECEIVER>
+      <LINE>Those children were hungry! I...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jamal</RECEIVER>
+      <LINE>Okay, give me a minute.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jamal</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You keep your little street rat nose out of it! Huh?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Do you have any money?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>No!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Okay. Trust me. Here you go.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Wait!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jamal</RECEIVER>
+      <LINE>This is what you wanted, right?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jamal</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Eh! Thank you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Okay, and an apple for your troubles. Nice. -</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>That was m... I'm not leaving without my bracelet!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jamal</RECEIVER>
+      <LINE>You mean, this bracelet? Come on.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jamal</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Nay nay nay na-na-nay Nay nay nay na-na-nay Nay nay nay nay nay... Aladdin! Thief, Aladdin!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Are we in trouble?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jamal</RECEIVER>
+      <LINE>Only if you get caught.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jamal</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Aladdin!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jamal</RECEIVER>
+      <LINE>Down that alley. Monkey knows the way. Abu. Cute butt. You'll be fine. -</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jamal</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Over there! Hey, you!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jamal</RECEIVER>
+      <LINE>You looking for this, Jamal?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jamal</SPEAKER>
+      <LINE>Aladdin, you street rat!</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 6</TITLE>
+    <STAGEDIR>Start song: One Jump Ahead</STAGEDIR>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Guards</RECEIVER>
+      <LINE>Gotta keep</LINE>
+      <LINE>One jump ahead of the bread line</LINE>
+      <LINE>One swing ahead of the sword</LINE>
+      <LINE>I steal only what I can't afford.</LINE>
+      <LINE>And that's everything</LINE>
+      <LINE>One jump ahead of the lawmen</LINE>
+      <LINE>That's all, and that's no joke</LINE>
+      <LINE>These guys don't appreciate I'm broke</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Guards</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Riffraff! Street rat! Scoundrel!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Guards</RECEIVER>
+      <LINE>Take that! Try a different tact, guys</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Guards</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Rip him open 'Round the back, guys</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Women</RECEIVER>
+      <LINE>I can take a hint</LINE>
+      <LINE>Gotta face the facts</LINE>
+      <LINE>Could really use a friend or two</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Women</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Oh, it's sad, Aladdin's hit the bottom</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Women</RECEIVER>
+      <LINE>Oh, ladies.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Women</SPEAKER>
+      <RECEIVER>Woman</RECEIVER>
+      <LINE>He's become a one-man rise in crime</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Woman</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I'd blame parents, 'cept he hasn't got 'em</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Gotta eat to live, gotta steal to eat Tell you all about it when I got the time Hey!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>There are stairs, you know.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Crowd</RECEIVER>
+      <LINE>Where's the fun in that?</LINE>
+      <LINE>One jump ahead of the slowpokes</LINE>
+      <LINE>One skip ahead of my doom</LINE>
+      <LINE>Next time gonna use a nom de plume</LINE>
+      <LINE>Hey, get back here!</LINE>
+      <LINE>One jump ahead of the hitmen</LINE>
+      <LINE>One hit ahead of the flock</LINE>
+      <LINE>I think I'll take a stroll around the block</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Crowd</SPEAKER>
+      <RECEIVER>Crowd</RECEIVER>
+      <LINE>Stop thief!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Crowd</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Vandal!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Crowd</RECEIVER>
+      <LINE>Abu!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Crowd</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Scoundrel!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Lady</RECEIVER>
+      <LINE>Let's not be too hasty</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Lady</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Still I think he's rather tasty</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Guards</RECEIVER>
+      <LINE>Gotta eat to live, gotta steal to eat Otherwise we'd get along</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Guards</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Wrong! No, no, no, no!</LINE>
+      <LINE>Aladdin, Together on three.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Together on three?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>We jump.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>We jump?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Why are you repeating everything I say? The pole. One, two, three!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Sorry! I can't do this.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Look at me. Look at me. You... can do this.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Oh. Oh.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Nicely done.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Thank you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Abu</RECEIVER>
+      <LINE>One jump ahead of the hoofbeats</LINE>
+      <LINE>One hop ahead of the hump</LINE>
+      <LINE>One trick ahead of disaster</LINE>
+      <LINE>They're quick, but I'm much faster</LINE>
+      <LINE>Here goes</LINE>
+      <LINE>Better throw my hand in</LINE>
+      <LINE>Wish me happy landing</LINE>
+      <LINE>All I gotta do is jump!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Abu</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>(Chitters)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Oh, dear.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <LINE>Come on. I know somewhere we'll be safe.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 7</TITLE>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Here comes the Master.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>You bring me the rough but never a diamond. Take them away.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Guard</RECEIVER>
+      <LINE>Take them away.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Guard</SPEAKER>
+      <RECEIVER>Prisoner</RECEIVER>
+      <LINE>Move!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Prisoner</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Please! Majazeer, perhaps this diamond in the rough does not exist.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Prisoner</RECEIVER>
+      <LINE>He is out there.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Prisoner</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>But we've searched for months. I do not understand what could possibly be in that cave that could help a man as great as you. You are already second only to the Sultan.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Second! Uh-oh. Who's in trouble now?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Prisoner</RECEIVER>
+      <LINE>And you think second is enough?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Prisoner</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Of course. You were not born to be sultan.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Not smart.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Prisoner</RECEIVER>
+      <LINE>Do you know what I had to do to get the power that I have? The sacrifices that I've made? The bodies that I've buried? The five years spent in a Sherabad jail? People need to understand that they will pay for underestimating me. Second is not enough! And it will never be enough! That's why I need the lamp. And why I no longer need you!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Prisoner</SPEAKER>
+      <LINE>(Screaming)</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 8</TITLE>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>This way.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Where are we, exactly?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>You'll see.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Oh, my... Is this.. is this where you live?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Yep. Just me and Abu. Come and go as we please. Welcome to my humble... You'll see.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You are quite the magician.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Abu</RECEIVER>
+      <LINE>Thank you. (Whispers) Abut, no, help!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Abu</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>(Chitters)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I can't believe...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>What?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I can't believe we did that. That I did that. That we are alive! With the chase.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Abu</RECEIVER>
+      <LINE>Abu, Tea?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Abu</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>(Chitters)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Jumping buildings. That was incredible.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Tea?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Thank you. And thank you for getting me out of there. Aladdin, isn't it?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Uh, you're welcome...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Um, I'm Dalia.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Dalia. From the palace.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>How could you tell?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Well, only someone from the palace could afford a bracelet like that. And that silk lining is imported, too. It comes from the merchant boats straight to the palace. But not to servants. At least not most servants. Which means you... are a handmaid to the Princess.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Impressive.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>You think that's impressive. You should see the city from up there.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Agrabah. It's so beautiful. I should get out more.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>You should tell the Princess to get out more. The people haven't seen her in years.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>They won't let her. Ever since my... The Queen was killed, the Sultan's been afraid. So she's kept locked away.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Seems everyone's been afraid since then. But the people of Agrabah had nothing to do with that. The people loved her.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>They did, didn't they? Is this yours?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>It's kind of... borrowed. My mother taught me that song.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Mine too.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>It's all I remember of her.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>And what about your father?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>I lost them both when I was young. Been on my own ever since. It's all right, it's just...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>It's a little sad... having a monkey as the only parental authority in your life. We get by. Everyday, I just... think things will be different, but it never seems to change. Just sometimes, I feel like I'm...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Trapped. Like you... can't escape what you were born into?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Yes.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I have to get back to the palace.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <LINE>Now?</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 9</TITLE>
+    <SPEECH>
+      <SPEAKER>MAN 1</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Make way for Prince Anders! Make way for Prince Anders!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>It's just another prince coming to court the princess.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Yes, and I have to get her ready. Oh, do you have my bracelet?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Abu</RECEIVER>
+      <LINE>Sure. I'm sure I put it in here. Somewhere. Abu, did you take it?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Abu</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>(Chitters)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>That was my mother's bracelet.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Yes, it's beautiful.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You are a thief.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>No. No. Yes, but...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I was so naive. Excuse me.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Guard</RECEIVER>
+      <LINE>Wait. Wait. Wait! Wait, it's not like that!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Guard</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Street rat, get out of the way!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Guard</RECEIVER>
+      <LINE>Who do you think you're calling a street rat?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Guard</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Are you talking back to me? You were born worthless and you will die worthless. And only your fleas will mourn you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <LINE>Come on, Abu. Let's go home.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 10</TITLE>
+    <STAGEDIR>Start song: One Jump Ahead Reprise</STAGEDIR>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Abu</RECEIVER>
+      <LINE>Riffraff</LINE>
+      <LINE>Street rat</LINE>
+      <LINE>I don't</LINE>
+      <LINE>Buy that If only</LINE>
+      <LINE>They'd look closer</LINE>
+      <LINE>Would they see a poor boy?</LINE>
+      <LINE>No, siree They'd find out</LINE>
+      <LINE>There's so much more</LINE>
+      <LINE>To me</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Abu</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>(Chitters)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <LINE>Abu. There's a time that we do steal, and a time we don't. This was definitely a don't.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 11</TITLE>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Prince Anders</RECEIVER>
+      <LINE>Welcome, Prince Anders. We trust you had an enjoyable journey.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Prince Anders</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Oh, wow.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Prince Anders</RECEIVER>
+      <LINE>Prince Anders, my daughter, Princess Jasmine.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Prince Anders</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>S-So... Why did no one tell me of your beauty?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Prince Anders</RECEIVER>
+      <LINE>No one mentioned yours, either.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Prince Anders</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Oh, thank you. They say that in Skinland. Ya, right? It's... It's very, very amusing</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Prince Anders</RECEIVER>
+      <LINE>Is it?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Prince Anders</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Ya.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>We have that same title yet arenever described the same way.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Prince Anders</RECEIVER>
+      <LINE>Mm-hrm... Jasmine.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Prince Anders</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Ya. Oh. What is that? Don't. Don't tell me. It's a cat... with stripes.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Prince Anders</RECEIVER>
+      <LINE>He likes you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Prince Anders</SPEAKER>
+      <RECEIVER>Rajah</RECEIVER>
+      <LINE>I know.Cause in Sknland, cats love me. Here, puss-puss. Hey, puss-puss. Hey, puss-puss, puss...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Rajah</SPEAKER>
+      <LINE>(Growling)</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 12</TITLE>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>My Sultan... Our enemies grow stronger everyday, yet you allow your daughterto dismiss Prince Anders and a possible military alliance.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Which enemies?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Sherabad continues to amass.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Sherabad is our ally.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Was our ally.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>You would drag us into a war with our only...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Yet you would allow your kingdom to sink into ruin, for mere sentiment!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Jafar! Remember your place.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>I apologize. Forgive me, my Sultan. I went too far. But... if you would only reconsider, I think you would see that invading Sherabad is the right thing to do.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Invading Sherabad is...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Invade Sherabad?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>What...?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Why would we invade Mother's kingdom?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>We would never invade Sherabad.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>But an ally in Skanland would improve our situation.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Yes. If you consider giving Prince Anders a chance.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>To rule? Baba, Rajah would make a better ruler.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>My dear, I'm not getting any younger. We must find you a husband and... we are running out of kingdoms.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>What foreign prince can care for our people as I do? I could lead, if only...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>My dear, you cannot be a sultan. Because it has never been done in the thousand-year history of our kingdom.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>I have been preparing for this my whole life. I have read every...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Books? But you cannot read experience. Inexperience is dangerous. People, left unchecked, will revolt. Walls and borders, unguarded, will be attacked.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Rajah</RECEIVER>
+      <LINE>Jafar is right. One day, you will understand. You may leave now.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Rajah</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>(Growling)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Life will be kinder to you, Princess, once you accept these traditions and understand it's better for you to be seen and not heard.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <LINE>(Sigh)</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 13</TITLE>
+    <STAGEDIR>Start song: Speechless</STAGEDIR>
+    <STAGEDIR>Jasmine (singing) Here comes a wave</STAGEDIR>
+    <STAGEDIR>Meant to wash me away</STAGEDIR>
+    <STAGEDIR>A tide that is taking me under</STAGEDIR>
+    <STAGEDIR>Broken again</STAGEDIR>
+    <STAGEDIR>Left with nothing to say</STAGEDIR>
+    <STAGEDIR>My voice drowned out in the thunder</STAGEDIR>
+    <STAGEDIR>But I can't cry</STAGEDIR>
+    <STAGEDIR>And I can't start to crumble</STAGEDIR>
+    <STAGEDIR>Whenever they try</STAGEDIR>
+    <STAGEDIR>To shut me or cut me down</STAGEDIR>
+    <STAGEDIR>I can't stay silent</STAGEDIR>
+    <STAGEDIR>Though they wanna keep me quiet</STAGEDIR>
+    <STAGEDIR>And I tremble when they try it All I know</STAGEDIR>
+    <STAGEDIR>Is I won't</STAGEDIR>
+    <STAGEDIR>Go speechless</STAGEDIR>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 14</TITLE>
+    <SPEECH>
+      <SPEAKER>Guard</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Open the gates!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Abu</RECEIVER>
+      <LINE>You know what to do, Abu.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Abu</SPEAKER>
+      <RECEIVER>Guard</RECEIVER>
+      <LINE>(Chitters)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Guard</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Get off me! Get off me, you dirty monkey! Go away! Go away! Go away! Close the gates!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Dirty monkey. Street thief. Street thief.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>"Remember your place, Jafar."</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Remember your place!</LINE>
+      <LINE>Jafar. If I hear that...! One more time.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Sorry, Master.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Another petty insult from that slow-minded fool. He sees a city where I see an empire.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Such vision.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Once that lamp sits in my hand, then I shall sit on his throne.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Thief! Thief in the palace.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Thief in the palace?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>That's what I said. Thief.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>What have you seen, Iago?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <LINE>Diamond in the rough.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 15</TITLE>
+    <SPEECH>
+      <SPEAKER>Man</SPEAKER>
+      <LINE>I told you, now, come on! Bigger circles. Bigger circles.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 16</TITLE>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <LINE>Who's a clever boy?</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 17</TITLE>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>But Dalia, there has to be something I can do.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>A handsome prince wants to marry you. Oh, when will life get easier?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>It's not that I don't want to marry, it's just...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>You want to be sultan. But why?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>You remember my mother used to say, "We would only ever be as happy as our least happy subject." If she saw what I saw today, she would be heart-broken.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>She would also want you to be safe. And clean. I'll draw the bath.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Jafar's guards on every corner. Soon he'd have them invading our neighbors, risking lives, for what? I can help! I know I can. I was born to do more than marry some useless prince.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>If you had to marry a useless prince, you could certainly do worse than this one. He's tall and handsome, and yes, he's a little dim but, you're just getting married. It's not like you have to talk to him. But you'd prefer that boy from the market.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Can I help you?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Tea?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You. You! What are you doing here? Get in here, now.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>I... came back to return your bracelet.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>My bracelet? Where is it?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>On your wrist.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Not bad! I like what she's done with the place.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>How did you get past the guards?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>That was challenging. But, I have my ways. While the Princess is out, would you like to go for a stroll? Have a little chat?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You're unbelievable. You cannot just break into a palace and walk around like you own the place.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>If you don't have anything, you have to act like you own everything. So, what do you say? I did find your bracelet.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You did not find it, you stole it.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Correction, the monkey stole it.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>He's your monkey.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>He's still just a monkey.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Who ordered the tea?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Uh... I did. For you, Princess Jasmine.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Your Majesty!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Why are you being weird? Oh, I'm... the Princess... Yes! Mm-hmm. And it is good to be me with all my palaces and... wagons of gold... things... and dresses for... every hour of the day. Now it is time for my cat to be cleaned.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>She doesn't get out much.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Rajah</RECEIVER>
+      <LINE>Mm-hmm. Clearly. Aren't you supposed to be in the bath?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Rajah</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>(Sniffing)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Oh, Servant girl! This cat isn't going to clean itself.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>But don't cats clean themselves?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You have to go now.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Oh, okay, but I'm coming back tomorrow night.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What? No, you can't.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Guards</RECEIVER>
+      <LINE>Meet me in the courtyard beside the fountain. When the moon is above the minaret. To return this. I promise. Can you believe it, Abu? The most heavily guarded place in all of Agrabah.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Guards</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Evening.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <LINE>Evening. Evening. Guards are behind me. Hello, boys.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 18</TITLE>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Where am I?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>In a world of trouble, boy.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>That bracelet. Is that what this is about? Because I didn't steal it. The handmaid...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What was a handmaid doing wearing the Queen's bracelet?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>The Queen? No, no. She said that - it belonged to...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Her mother. Well, at least she told the truth about one thing.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>A-Are you saying that was the Princess? I was talking to the...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>She was toying with you. It amuses her to meet commoners. Did you actually think she liked you? What do they call you?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Aladdin.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Aladdin. People like us must be realistic.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Us?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You see, I was once like you. A common thief. Only I thought bigger. Steal an apple, and you're a thief. Steal a kingdom, and you're a statesman. Only weak men stop there. You're either the most powerful man in the room, or you're nothing. You. You stumbled upon an opportunity. I can make you rich. Rich enough to impress a princess. But nothing comes for free.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>What would I have to do?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <LINE>There's a cave nearby. And in it, a simple oil lamp. Retrieve it for me, and I will make you wealthy enough to impress a princess. You're nothing to her. But you could be. Your life begins now, Aladdin.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 19</TITLE>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Still waiting?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>No. No, I came out to... He promised.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>I'll be upstairs if you need me.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <LINE>Good night, Dalia.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 20</TITLE>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>The Cave of Wonders. When you enter, you will see more riches than you've ever dreamed of. Gold, diamonds... and... the lamp. Bring it to me and I will make you rich and free. But take no other treasure, no matter how sorely you are tempted. And you will be tempted.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Cave of Wonders</RECEIVER>
+      <LINE>(Walk to cave)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Cave of Wonders</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Only one may enter here. One who's worth lies far within. A diamond in the rough.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Remember... take nothing but the lamp.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Cave of Wonders</RECEIVER>
+      <LINE>Abu, don't touch. Remember? Whoa. Abu. This is a magic carpet. These really do exist. Hello, carpet. Let’s see what we can do about your situation here. Oh, hey! Don't mention it. Abu, keep your little monkey hands to yourself. Abu! No!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Cave of Wonders</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>(voice) You have touched the forbidden treasure! Now, you will never again see the light of day!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Carpet! Abu, jump! Could you give me a hand?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>First, the lamp.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>No, no, first, your hand.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>We don't have much time. Give me the lamp.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Your hand!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Second no more, Master.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Now, your hand!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>How about my foot?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>No!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Get off me, monkey! Stop!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Dirty monkey! Second, second!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <LINE>(Screaming)</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 21</TITLE>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Aaahhh! We're alive. I think. Thank you, carpet. Abu. How did you...? You cunning little monkey. Now, all we need's a way out. Hey, carpet, do you know a way out of here? The lamp? What is that?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Oh, great one who summons me. Terrible one who commands me. I stand by my oath. Loyalty to wishes three. I said... oh... great... Excuse me. Boy, where's your boss? Help me out here, where's your boss? If I was gonna talk to myself, I coulda just stayed in the lamp. Hello! Um...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>(Aladdin shudders over trying to speaking shock on seeing the Genie) Hi..!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Use your big boy voice.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I'm... talking... to a smoking blue giant?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>No! I am not a giant. I am a genie. There's a difference. Giants are not real. Where's your boss?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Um, my boss?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Look, kid, I've been doing this a long time, all right? There's always a guy, you know. He's cheated somebody or buried somebody or... I mean, you get my point. Where's that guy?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I know that guy. He's outside.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>So... it's just... you and me down here? And a monkey. That's your personal business, but we gonna need to talk about that monkey later. Such a pretty little monkey. So, you rubbed the lamp?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Uh-huh.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Oh, okay. Hey, do you mind if I just stretch it out over here? Do you mind?</LINE>
+      <LINE>Aladdin Uh, are you asking me?</LINE>
+      <LINE>Genie; You're my master.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I'm your master?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Downward dog!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>No, no, no. You look like you should be my master.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Right, but that's not quite how it works, though.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>How long have you been trapped in here?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>'Bout a thousand years.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>A thousand years?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>[with Aladdin's head] A thousand years? Kid, is it me, or does, like, everything surprise you? So, you really don't know who I am? Genie, wishes, lamp? None of that ringin' a bell? Wow. Well, th-th-that's a first. Monkey! Oh, you don't need to worry about him, he's fine.</LINE>
+      <LINE>(Genie starts to sing Friend Like Me)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Well, Ali Baba, he had them forty thieves Scheherazade had a thousand tales</LINE>
+      <LINE>Well, master, you're in luck because up your sleeve You got a genie that never fails! Whoo! I'm the best.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Heh.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Yeah. Not enough, huh? I'm kidding. Watch this.</LINE>
+    </SPEECH>
+    <STAGEDIR>Start song: Friend Like Me</STAGEDIR>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Here I go! Unh, ooh, woo! Back up! Uh-oh! Watch out! You done wound me up! 'Boutta show you what I'm workin' with, unh!</LINE>
+      <LINE>Well, Ali Baba, he had them forty thieves</LINE>
+      <LINE>Scheherazade had a thousand tales</LINE>
+      <LINE>But, master, you're in luck because up your sleeves</LINE>
+      <LINE>You got a brand of magic never fails</LINE>
+      <LINE>You got some power in your corner now</LINE>
+      <LINE>Heavy ammunition in your camp</LINE>
+      <LINE>You got some punch, pizazz, yahoo, and how?</LINE>
+      <LINE>All you gotta do is rub that lamp</LINE>
+      <LINE>And then I'll say</LINE>
+      <LINE>Mister, Man, what's your name?</LINE>
+      <LINE>Whatever</LINE>
+      <LINE>What will your pleasure be?</LINE>
+      <LINE>Let me take your order,</LINE>
+      <LINE>I'll jot it down</LINE>
+      <LINE>You ain't never had</LINE>
+      <LINE>a friend like me</LINE>
+      <LINE>Life is your restaurant</LINE>
+      <LINE>And I'm your maitre d'</LINE>
+      <LINE>Come, whisper to me</LINE>
+      <LINE>whatever it is you want</LINE>
+      <LINE>You ain't never had a friend like me</LINE>
+      <LINE>We pride ourselves on service</LINE>
+      <LINE>You the boss, the king, the shah!</LINE>
+      <LINE>Say what you wish, it's yours!</LINE>
+      <LINE>True dish</LINE>
+      <LINE>How about a little more baklava?</LINE>
+      <LINE>Have some of column A</LINE>
+      <LINE>Try all of column B</LINE>
+      <LINE>I'm in the mood to help you, dude</LINE>
+      <LINE>You ain't never had a friend like me</LINE>
+      <LINE>Oh!</LINE>
+      <LINE>Unh!</LINE>
+      <LINE>It's the big part</LINE>
+      <LINE>Watch out!</LINE>
+      <LINE>It's the big part</LINE>
+      <LINE>Oh!</LINE>
+      <LINE>Can your friends do this?</LINE>
+      <LINE>Can your friends do that?</LINE>
+      <LINE>Can your friends pull this</LINE>
+      <LINE>Outta they little hat?</LINE>
+      <LINE>Can your friends go</LINE>
+      <LINE>I'm the genie of the lamp</LINE>
+      <LINE>I can sing, rap, dance,if you give me a chance,oh!</LINE>
+      <LINE>Don't sit there buggy-eyed</LINE>
+      <LINE>I'm here to answer all your midday prayers</LINE>
+      <LINE>You got me bona fide, certified</LINE>
+      <LINE>You got a genie for your charge d'affaires</LINE>
+      <LINE>I got a powerful urge to help you out</LINE>
+      <LINE>So what's your wish?</LINE>
+      <LINE>I really wanna know</LINE>
+      <LINE>You got a list that's three miles long, no doubt</LINE>
+      <LINE>All you gotta do is rub like so</LINE>
+      <LINE>Mister?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Aladdin</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Yes!</LINE>
+      <LINE>One wish or two or three</LINE>
+      <LINE>Well, I'm on the job, you big nabob</LINE>
+      <LINE>You ain't never had a friend, never had a friend</LINE>
+      <LINE>You ain't never had a friend, never had a friend</LINE>
+      <LINE>You ain't never</LINE>
+      <LINE>Never</LINE>
+      <LINE>Had a</LINE>
+      <LINE>Had a</LINE>
+      <LINE>Friend</LINE>
+      <LINE>Friend</LINE>
+      <LINE>Like</LINE>
+      <LINE>Like</LINE>
+      <LINE>Me!</LINE>
+      <LINE>You ain't never had a friend like me</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You can clap now. Puh-domp. No, no, no, no. Please, please, please, please. You can thank me outside. In the sun. When you wish us out.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>So, how does it work?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You're... kidding, right? The whole song... was the instructions! Obviously you can't dance and listen at the same time. So here's the basics. Step one. Rub the lamp. Step two. Say what you want. Step three. There is no step three. See? It's that easy. You get three wishes. They must begin with rubbing the lamp and saying "I wish". Got it?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I think so.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>A couple other rules. You can't wish for more wishes. Three is enough. Now, I can't make anybody love anybody. Or bring anybody back from the dead. Feel free to interrupt me anytime you don't understand. I'm kidding. Don't ever interrupt me, no matter what. Now, I usually don't have to go through all this because by the time the guy gets to me, he pretty much knows what he wants and it generally has to do with tons of money and power! Do me a favor, do not drink from that cup. I promise you, there's not enough money and power on Earth for you to be satisfied. Good? So, what's your first wish?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Mm, well... I have to think about it. I mean, if there are only three. Why are there only three, anyway?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I don't know! Who cares? You don't know.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I thought you were all-knowing?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>That's 'cause you don't listen. I never said I was all-knowing. I said I was all-powerful. The most powerful being in the universe. Look, whatever I don't know, I know I can learn it. Outside in the sun. Why you playin' hard to wish? I know you can't tell, but I'm very pale. This is sky blue. My natural pigmentation is navy. Give us some sun!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Okay, Genie. I wish for you to get us out of this cave.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Oh, yeah! He has made his first wish! Thank you for choosing carpets, camels and caravans. Please don't forget to tip your genie on the way out. Hold yourself, kid! Whoo! Whoa. Man, look at this world. It's so... big. Inside the lamp, everything's like, brass! Brass! Brass! Brass! Like, ooh, is that some copper? Nope! Brass! Sorta the problem with the genie life. Phenomenal cosmic powers, but itty-bitty living space.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>So, is this magic? Or are you magic?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Eh, kind of a package deal.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Can you warn me before you do that?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Oh, you'll get used to it.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Right. So, do I have to make all my wishes here? I mean, if I take you back to Agrabah, won't people...?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>No, no, no, no, no. I can look totally normal.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Right. Totally normal. Still blue. Do we need the top knot?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>That's my little cherry on top.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Okay, okay.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>So... What are you gonna wish?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Oh, I haven't thought about that.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Mm. You really are not that guy. Okay.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>So what would you wish for?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>No one's ever asked me that before. An easy one though. I wish to be free. To not have to say, Can I help you? What would you like? Welcome to the lamp. May I take your order please? Freedom. I wish to be... To be human.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Why don't you just set yourself free?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Carpet! Did you hear what this boy said? Why don't I set myself free? Only way a genie gets to be free is if the owner of the lamp uses one of his wishes to set him free. And the last time that happened was, like, the fourth of Never-ary.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I'll do it. I've got three, right?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Actually, you have two left. You used one to get out of the cave, remember?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Did I? Or did you? I thought I had to be rubbing the lamp?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Okay, little street boy. Let's rewind the tape. Okay, Genie. Oooh! The old monkey-with-the-lamp trick. Never seen that one before. Keep my eye on you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>At least now I can use my third wish to set you free.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Here's the thing about wishes. The more you have, the more you want.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>That's not me.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Hmm. We'll see about that.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>But there is something.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Uh-oh. Seen that face before. Who is she? Who's the girl?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>She's a princess.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Aww, aren't they all? Treat your woman like a queen, I always say.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>No. No, she's an actual princess.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Well, I already told you. I can't make anyone love anyone, so.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>No, no. We had a connection.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Did they?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>She is smart and kind and so beautiful. But she has to marry a... Hey, can you make me a prince?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>There's a lot of gray area in "make me a prince". I could just... make you a prince.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Oh, no.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Prince</RECEIVER>
+      <LINE>Right, you'd be snuggled up with that dude for the rest of your life.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Prince</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Yo, you all seen my palace?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Be specific with your words. The deal is in the detail.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Got it.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Which I don't really understand because if she already likes you, why change?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Prince</RECEIVER>
+      <LINE>I told you she has to marry a prince.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Prince</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I just wanna go home, man.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Okay. I can do that.</LINE>
+      <LINE>An official wish this time,</LINE>
+      <LINE>for those of us</LINE>
+      <LINE>who are counting,</LINE>
+      <LINE>which now, I am one.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Genie... I wish...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Lamp?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Oh. Sorry. All right. Genie...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Don't hurt him, Genie.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I wish... to become... a prince.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Back up, boy, I need some room to work. I'm about to fabulize you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Genie?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>A little head-spinning. Better though, right?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I think I'm... getting used to it.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Okay, a prince, a prince. Obviously, the ghetto-chic is not gonna work. I'm feeling a periwinkle.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>What's periwinkle?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>No. Chartreuse. The lines are all wrong.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>What is this?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>The color clashes with your skin tone. The silhouette is confused.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>This is a big hat.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>No, that is not a big hat. Come on, Genie, gotta beat the door down. Gotta go bold! Gotta... gold! Aah, no! We've gone too far.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>We've gone too far.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Genie, You're slippin’! It's gotta be neutral for the desert. Ivory, beige, bone, Albion.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>It's a little heavy.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Oh! White! And the crowd goes wild! Oho! The Genie! The Genie's on fire! The Genie's on fire, folks. Don't hurt him, Genie! Don't scald him! Somebody cool me down! Somebody put me out! I'm too much! So what do you think?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I like it.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Of course you like it, boy. I made it.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I think that's me.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Strictly speaking, it... it's me. I mean, I did most of the work. You was just standing there. But I hear you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>But won't people recognize me?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Nobody will recognize you. That's how genie magic works. People see what they're told to see.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Right. Who am I?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Who... Prince... Ali.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>From?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Duh From Ababwah.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>A-bab-wah?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You're not listenin' Ababwah.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Is that a real place?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Yeah. Like, everybody knows about it. It has a brochure. A little hot in the summer, temperate in the fall. I-I'll let you read it en route.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>How are we gonna get there?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I guess you can't ride a chimp. Don't you just love a moonwalking monkey? Uh-uh, hold it there, Abu.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Donkey. Too small.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Yeah.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>No.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Too obvious. We need something robust. Relax, Abu. It's just for a minute.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Whoa. Prince Ali... of Ababwah.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>And now, for your entourage.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <LINE>What? What's happening? Genie?</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 22</TITLE>
+    <SPEECH>
+      <SPEAKER>Guards</SPEAKER>
+      <RECEIVER>Crowd</RECEIVER>
+      <LINE>Clear the way!</LINE>
+      <LINE>Clear the way!</LINE>
+      <LINE>Clear the way! Clear the way!</LINE>
+    </SPEECH>
+    <STAGEDIR>Start song: Prince Ali</STAGEDIR>
+    <SPEECH>
+      <SPEAKER>Crowd</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Make way for Prince Ali! Say hey! It's Prince Ali!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <LINE>Hey!</LINE>
+      <LINE>Clear the way in the old bazaar</LINE>
+      <LINE>Hey you! Let us through!</LINE>
+      <LINE>It's a brand new star</LINE>
+      <LINE>Oh come, be the first on your block to meet his eye!</LINE>
+      <LINE>Make way! Here he comes!</LINE>
+      <LINE>Ring bells! Bang the drums!</LINE>
+      <LINE>You're gonna love this guy</LINE>
+      <LINE>Prince Ali!</LINE>
+      <LINE>Fabulous he!</LINE>
+      <LINE>Ali Ababwa</LINE>
+      <LINE>Show some respect, boy, genuflect</LINE>
+      <LINE>Down on my knee</LINE>
+      <LINE>Now, try your best to stay calm</LINE>
+      <LINE>Brush up your Friday salaam</LINE>
+      <LINE>Then come and meet his spectacular coterie</LINE>
+      <LINE>Prince Ali! Mighty is he!</LINE>
+      <LINE>Ali Ababwa</LINE>
+      <LINE>Strong as ten regular men</LINE>
+      <LINE>Definitely!</LINE>
+      <LINE>He's faced the galloping hordes</LINE>
+      <LINE>A hundred bad guys with swords</LINE>
+      <LINE>Who sent those goons to their lords?</LINE>
+      <LINE>Why, Prince Ali</LINE>
+      <LINE>Fellas, he's got</LINE>
+      <LINE>He's got seventy-five golden camels</LINE>
+      <LINE>Now the ladies, what he got?</LINE>
+      <LINE>Purple peacocks, he's got fifty-three</LINE>
+      <LINE>Uh-uh-uh, uh-uh-uh, uh-uh-uh</LINE>
+      <LINE>When it comes to exotic-type mammals</LINE>
+      <LINE>Everybody help me out!</LINE>
+      <LINE>He's got a zoo</LINE>
+      <LINE>I'm telling you</LINE>
+      <LINE>It's a world-class menagerie</LINE>
+      <LINE>Prince Ali!</LINE>
+      <LINE>Handsome is he Ali Ababwa</LINE>
+      <LINE>There's no question this Ali's alluring</LINE>
+      <LINE>Ali Ababwa Never ordinary, never boring</LINE>
+      <LINE>That physique!</LINE>
+      <LINE>How can I speak?</LINE>
+      <LINE>Everything about that man</LINE>
+      <LINE>Weak at my knees</LINE>
+      <LINE>Just plain impresses</LINE>
+      <LINE>You yummy boy!</LINE>
+      <LINE>So, get on out in that square</LINE>
+      <LINE>He's a winner, he's a whiz, a wonder</LINE>
+      <LINE>Adjust your veil and prepare</LINE>
+      <LINE>He's about to pull my heart asunder</LINE>
+      <LINE>To gawk and grovel and stare</LINE>
+      <LINE>And I absolutely love</LINE>
+      <LINE>At Prince Ali, oops</LINE>
+      <LINE>The way he dresses</LINE>
+      <LINE>He's got ninety-five white Persian monkeys</LINE>
+      <LINE>He got the monkeys, a bunch of monkeys</LINE>
+      <LINE>And to view them he charges no fee</LINE>
+      <LINE>He's generous, so generous</LINE>
+      <LINE>He's got 10,000 servants and flunkies</LINE>
+      <LINE>Proud to work for him!</LINE>
+      <LINE>They bow to his whim, love serving him</LINE>
+      <LINE>They're just lousy with loyalty to Ali!</LINE>
+      <LINE>Prince Ali!</LINE>
+      <LINE>Prince Aaaa</LINE>
+      <LINE>We waitin' for you!</LINE>
+      <LINE>Aaaa</LINE>
+      <LINE>We're not going 'til you go!</LINE>
+      <LINE>Aaaa Aa-aa Aaaa</LINE>
+      <LINE>You can do it!</LINE>
+      <LINE>Aaaa</LINE>
+      <LINE>There it is!</LINE>
+      <LINE>Prince Ali!</LINE>
+      <LINE>Amorous he!</LINE>
+      <LINE>Ali Ababwa</LINE>
+      <LINE>Heard your princess was hot!</LINE>
+      <LINE>Where is she?</LINE>
+      <LINE>And that, good people, is why</LINE>
+      <LINE>He got all cute and dropped by</LINE>
+      <LINE>With sixty elephants, llamas galore</LINE>
+      <LINE>For real?</LINE>
+      <LINE>With his bears and lions, a brass band and more</LINE>
+      <LINE>What?</LINE>
+      <LINE>With his forty fakirs</LINE>
+      <LINE>Oh!</LINE>
+      <LINE>His cooks, his bakers</LINE>
+      <LINE>Oh!</LINE>
+      <LINE>His birds that warble on key</LINE>
+      <LINE>Oh!</LINE>
+      <LINE>Make way For Prince Ali</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 23</TITLE>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Where are they?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Relax.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>What is taking so long?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Here comes the man.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Oh!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What you doing? Put your arms down.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I'm... I'm presenting it.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Put your arms down.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>It's a pleasure to welcome you to Agrabah, Prince Ali.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>How did you break that?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I don't know. It fell off.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>It's a pleasure to meet him.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Uh... It's just as much... a pleasure for me, Your Highness, Sir. You look very serene.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>That's a curtsy, not a bow. Stand up.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I'm afraid I'm unfamiliar with... Ababwa.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Well, it's north...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>(Both) It's south... Uh, we have a north and a south.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>What?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>It's near, if you were to go... it's... it's...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Around there, you can find it, if you just look.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Don't help me.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>The world is changing quickly, Jafar. It seems as if there is a new country every day.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Hahaha!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Don't touch me. Don't touch me.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Well, Yes! You are very wise.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Um, tell him that we have gifts, please.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Oh, right! We have things! Gifts! Did you organize this?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Yes (Clap)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Yes, here we are! Gifts. Coming right up. We have spices. Golden camels. And spoons, tiny spoons.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Spoons!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>How do they make 'em that tiny? We have jams!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Jams?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Yes, jams! Yam jams. Fig jams. Yam jams! And date jams. Seedless. Delicious, exotic jams.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Yam jams!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Move. Away. From the jams.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>What?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>We have jewels.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Jewels! We have them. And, uh, that! Over there. Hidden for... suspense. Wfoo. Ta-da.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>It's a... wheel?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>It's a... very expensive.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>And what do you hope to buy with this... expensive?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>You!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Wow.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>No! No, no, no, no! A moment with you. A moment... that's not...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Are you suggesting I am for sale?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Of course. Not! No, of course not!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>It's cold, and it's dark in that lamp. But I prefer it to this.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Please excuse me, I need to go and... find some bread.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>For the jams.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>No, no, that's not what I meant. I...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You did great.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>That's not what I meant.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Just leave her alone. You didn't do great.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You will get a chance to speak again. We hope you can join us tonight, Prince Ali, when we celebrate our harvest.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Of course, Your Serene Self. We will join you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Smooth.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <LINE>In 10,000 years, I've never been that embarrassed.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 24</TITLE>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Don't worry. You are not out of the game yet. Just do whatever you normally do at a party.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I've never been to a party.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>What?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Oh, you gonna need to go back to the room then. You're not messin' up my night.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Prince Ali. May I have a word? Privately? This doesn't concern your servant. Be over there, minding my business. I know who you are.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>You do?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Yes. You're a man of great ambition, like myself.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>I, uh, I don't believe we've been properly introduced.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Jafar. Vizier to the Sultan. I could be a valuable ally to help you get what you want.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>I, uh, I will think on that. I don't wanna keep the Princess waiting.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Perhaps I'm not making myself clear. This offer will not be on the table for long, you see. Prince Ali...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Excuse me. Prince Ali, your presence is requested. So I guess that's the guy.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Mm-hmm, that's the guy.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Okay, there she is. This is your chance.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>You know what? There are a lot of people. I don't think I can do this.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You'll be fine. Okay. This one's gonna be easy. Ooh! Look at her handmaid. She's gonna get some punch. Feelin' a little thirsty myself.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>No. No, no, no, no. You can't leave me. They'll see right through me.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>No, they won't. All you have to do is walk over there.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>And speak. I also have to speak.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Okay, listen to me. I live in a lamp.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Mmm-hmm...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>But this is a party. Do not mess this up for me. Okay? I'd like to party. Go get her!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Prince Anders</RECEIVER>
+      <LINE>Okay. Mm-hrm.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Prince Anders</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Princess Jasmine!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Prince Anders</RECEIVER>
+      <LINE>You? You're... still here?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Prince Anders</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Yas.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What you doing?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Hmm?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What are you doing?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I'm just making sure the water's... a good temperature.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Why are you not over there?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>How am I supposed to compete with that? Look at him. He's so princely.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You have got to be more confident about what you have to offer.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>What do I have to offer? Knowledge of how to steal food? How to jump between buildings? Now, Prince Ali, he has jewels.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Stop, stop, stop. I made you look like a prince on the outside. I didn't change anything on the inside. Prince Ali got you to the door. But Aladdin has to open it.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Oh. See, the sultan does like me.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Okay, well, maybe he'll let you be his wife.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Look at that. Another prince more interested in Baba.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>I don't know. I think this one might be different. And he comes with an incredibly attractive friend. Please make it work.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>And what about Prince Ali?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Oh, look at him, he's trying so hard.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>And that's the problem.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Showtime.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>No, I'm waiting for the right moment.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>No, no. No waiting. We're done waiting.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>No. I'm in charge, okay? I say when it's the right moment. Really? Really?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>He's here. Say something. Act natural. Hi!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>I'm sorry for the jams. And the jewels, and the-and the... And the buying you. That wasn't me. It, It was me. I don't, It was me. I don't have a twin or anything. But, uh, I... um... - You're...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Dance? I'd love to.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Yes. Dance?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Just dance.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Go. Go.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Man</RECEIVER>
+      <LINE>Relax.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Man</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Bravo! Well done!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <LINE>Something very strange about him. Keep a close eye on Prince Ali.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 25</TITLE>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>She's just, Walked out.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Maybe I went a tad far with the backflip, but that dance may be the best thing you ever do in your life.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I was pretty good. But nothing seems to impress her.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Yeah, it's crazy. Not gems or jams or jewels. If I can't impress her, I wonder who can.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>What's that supposed to mean?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I'm just sayin' try being yourself?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>But she has to marry a prince. If I just had a few more minutes with her, I know I could... - You need to get me over there.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Is that an official wish?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>No. It's a favor... for a friend.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Ooh, yeah, see, genies don't really have friends.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I thought you said you never had a friend like me?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>No. I said you... never had a friend like me. When you're a genie, somebody always wants somethin' from you. It's awkward.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>You're right. You're right. Besides, it would've involved distracting a certain handmaiden...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <LINE>Ooh! Ha! See what you're doin'. You hooked me. See you there?</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 26</TITLE>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Good evening.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>How did you get past the guards?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Oh, uh, I snuck past.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>All 48 of them? Even the ones that eat fire? Impressive.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>That's why I'm, uh... That's what people say about me. Oh, that-that didn't come out the right way. No one says that. I-I don't know why I said that.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>They're beautiful. She will hate them. Tell Prince Ali, the way to her heart is through her mind.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Actually, these are from me... to you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Could you excuse me one moment?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Wait, no, just... "That's what people say about me." Come on, Genie!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>My favorites. I accept. Please continue.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>I was noticing how... pleasant the evening is. At the party, I noticed... you noticing how... pleasant I am. Right. How's this going?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>It's clumsy, but in a charming sort of way.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Uh, a stroll. Would you like to take an evening stroll?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Just the two of us? On purpose?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Yes. As people.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Just one more second.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Okay. Why would I say "as people"? The kid is contagious.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>I've never done this before. How does it work? Do you like sheep cheese?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Come in.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Actually, I'm already in.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Rajah</RECEIVER>
+      <LINE>Don't move.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Rajah</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>(Growling)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>I just came back... because you left so...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>How did you get there?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Magic carpet?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Hmm. Actually, I'm glad you are here.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>You are?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I've been trying to find Ababwa, but it doesn't seem to be on any of my maps. Care to show me?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Rajah</RECEIVER>
+      <LINE>I'd love to.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Rajah</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>(Growling)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Oh, Rajah, let's not eat the Prince today. He needs his legs for dancing.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Did I go too far with the backflip?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>A little. Ababwah?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Yes. Genie, I need to find Ababwah.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>The other brother, the short one. Not the one who gifted me a goat.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>She has maps, lots of maps. Ababwah, of course. Ababwah.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Yak napkins are not easy to find.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Have you lost your country?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>My country? No. No. There it is.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I don't think so. I've been...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>There it is!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>How did I not see that?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Who needs maps anyway? They're old and useless. And have no practical value.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Maps are how I see the world.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>I thought a princess could go anywhere?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Not this princess.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Uh, well, uh, would you...? Would you wanna...? Sorry. Sorry.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Rajah</RECEIVER>
+      <LINE>Rajah.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Rajah</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>(Growling)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Thanks... for that. I was saying... You should see these places. I mean, there's a whole world outside of books and maps. Do you want to?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>How? The door's guarded.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Who said anything about a door?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What are you doing?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Sometimes Princess... Sometimes, you just have to take a risk.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What just happened? What? Is this...?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>A magic carpet. Do you trust me?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What did you say?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Do you trust me?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Yes.</LINE>
+    </SPEECH>
+    <STAGEDIR>song</STAGEDIR>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>I can show you the world Shining, shimmering, splendid Tell me, princess Now when did you last let your heart decide? I can open your eyes Take you wonder by wonder Over, sideways and under On a magic carpet ride A whole new world A new fantastic point of view No one to tell us, "No" Or where to go Or say we're only dreaming</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>A whole new world A dazzling place I never knew But when I'm way up here It's crystal clear That now I'm in a whole new world with you</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Now I'm in a whole new world with you</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Unbelievable sights Indescribable feeling Soaring, tumbling, freewheeling Through an endless diamond sky A whole new world</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Don't you dare close your eyes</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>A hundred thousand things to see</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Hold your breath, it gets better</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I'm like a shooting star I've come so far I can't go back to where I used to be</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>A whole new world</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Every turn, a surprise</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>With new horizons to pursue</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin+Jasmine</RECEIVER>
+      <LINE>Every moment, red-letter</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin+Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I'll chase them anywhere There's time to spare Let me share this whole new world with you</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>A whole new world</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>A whole new world</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>That's where we'll be</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>That's where we'll be</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>A thrilling chase</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin+Jasmine</RECEIVER>
+      <LINE>A wondrous place</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin+Jasmine</SPEAKER>
+      <LINE>For you and me</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 27</TITLE>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Of all the places you've shown me, this is by far, the most beautiful.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Sometimes you just have to see it from a different perspective.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>It's them, the people. They make it beautiful. And they deserve a leader who knows that. I don't know why I think it could be me.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Because it should be you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You think so?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Does it matter, what I think?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Oh, look at that adorable monkey down there. Is that Abu?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>No, no, it couldn't be Abu, he's...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>So, how many names do you have, Prince Aladdin?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>No, no, I...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>So, who's Prince Ali?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>I am... Prince Ali.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>But how would you know the city so well?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>I came to Agrabah early. Because to know a people, you have to see them for yourself. But you already know that. When we first met, you were disguised in your own city. You saw us arrive with dancers, an elephant, and a magic carpet. How could a street thief have all that?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>But how could I not recognize you?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>People don't see the real you when you're royalty.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I'm sorry. I'm embarrassed. I mean, you've seen more of Agrabah in days than I have in an entire lifetime.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>We should... probably head back.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Already?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Until tomorrow, Princess.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Good night.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Good night. Yes. Woo-hoo!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Fascinating.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Ooh! I like that face. - Good date?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <LINE>The best.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 28</TITLE>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>But it was better than the best.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <LINE>(Listening)</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 29</TITLE>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>She figured out I was Aladdin. You said that wouldn't happen.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Wow. I mean, genie magic is really just a facade. At some point, the real character's always gonna shine through. But that's a good thing, right? Now, she knows.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Well...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <LINE>Well, what?</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 30</TITLE>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>He told me he was only pretending to be a thief to see the city. But he's actually a prince.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <LINE>(Listening)</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 31</TITLE>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I convinced her that I really was a prince.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <LINE>(Listening)</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 32</TITLE>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>And you believed him?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <LINE>(Listening)</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 33</TITLE>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>And she believed you?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <LINE>(Listening)</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 34</TITLE>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>I think so.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <LINE>(Listening)</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 35</TITLE>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Eventually, you are going to have to tell her the truth.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Eventually, I will tell her. Anyway, I sort of am a prince now.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <LINE>Oh. So you're gonna drink from that cup.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 36</TITLE>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>You don't think maybe you want to believe him because you have to marry a prince but you can't marry a thief?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <LINE>No. I believe him. I do.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 37</TITLE>
+    <SPEECH>
+      <SPEAKER>Abu</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>(Chitters)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Hakim</RECEIVER>
+      <LINE>When the time is right, I will tell her. Morning?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Hakim</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Morning.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>(Sigh) Not again.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <LINE>(Staring)</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 38</TITLE>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Please, please, I... Gentlemen. I think there's been some sort of confusion. I don't think you know who I am.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Oh, no, no. I know who you are. Aladdin.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Aladdin?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Aladdin.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>I don't know who that is. I'm Prince Ali...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Street rat.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Of-Of Ababwah.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>A prince from a kingdom that doesn't exist. Who now possesses a magic carpet from the Cave of Wonders. Seems to me, the only way that's possible,</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Where's your monkey?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <LINE>is if you found a certain treasure. My treasure. Where's the lamp?</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 39</TITLE>
+    <SPEECH>
+      <SPEAKER>Abu</SPEAKER>
+      <LINE>(Chitters)</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 40</TITLE>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>This clearly, is some sort of misunderstanding. I'm Prince Ali.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>If I throw you off of that balcony, and you are who you say you are, you will die a watery death. If you survive, it can only be because of the lamp. In which case, I will have my answer. For the last time... Where is the lamp?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Listen to me. I don't know who you think I am.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Goodbye, Aladdin.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>No!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Abu</RECEIVER>
+      <LINE>Hmm.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Abu</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>(Chitters)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Boy, What in the...? Oh! Hey, kid! Okay. I can't get you out of this unless you make a wish. You have to make a wish! Come on, wake up! Okay, try and form the words. "I wish." Kid, come on, wake up! Wake up. You need to think. Think, think. Think. Okay. Okay. A little gray area here, but it's worth a try. I, Aladdin, being of sound body and mind, declare that my second wish is to be saved from certain doom. I took the liberty to backdate that a day. I hope you don't mind. Yes! Here we go! Come on! Come on, kid! Kid! Kid, please. Come on. Wake up. Wake up, wake up. Kid! Wake up, please.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Ew.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Probably could've done that the other direction though. How you doing?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Thanks, Genie.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Hey, no problem, uh, I was in the neighborhood.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I thought you said no favors?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I wa-I wa...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I thought you said no friends?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Right, uh... It actually cost you a wish.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Whatever it cost. You saved my life.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Abu</RECEIVER>
+      <LINE>Yeah, that's true. I mean, strictly speaking though, it was a team effort.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Abu</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>(Chitters)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Thank you. We have to stop Jafar.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>That's not gonna be easy. The Sultan trusts him completely. He has everybody fooled.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <LINE>Maybe not everyone.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 41</TITLE>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>I overheard Prince Ali talking to his advisor about returning with an army to conquer Agrabah.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>What?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Now it appears he's fled in the night.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Jasmine.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>You heard him say this, Jafar? And you saw him leave?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Uh-oh.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Yes. With my own ears and my own eyes. So, what's the problem now, Princess?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>This is the problem, Jafar. If what you say is true, why is Prince Ali still here?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Your Majesty.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Prince Ali. This is a surprise.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Your Highness, your advisor's not who he says he is.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Oh. I'm not who I say I am.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Baba, he tried to kill Prince Ali.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Jafar, can you explain this to me?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Yes. My Sultan... You know my loyalty belongs to you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Your loyalty. Your loyalty.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Yes.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Prince Ali, you invited yourself into our city. And we welcomed you as our guest. But I believe your intentions are... deceitful. You are a grave danger to Agrabah, and you shall be dealt with as such.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Baba, what are you saying?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Enough, Jasmine! Jafar told me of Prince Ali's ambition.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>His staff.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>He's here for my throne. Hakim!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Baba?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What happened?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>He had you under a spell.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>He's not to be trusted. Your Majesty.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>He wants your throne.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <LINE>Jafar, you were my most trusted advisor! Hakim! Put him in the dungeon!</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 42</TITLE>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Hakim</RECEIVER>
+      <LINE>You should think about how quickly the sands of power shift in the storm, Hakim.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Hakim</SPEAKER>
+      <LINE>I am loyal to my sultan. As you should have been. The law is the law.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 43</TITLE>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Prince Ali, I must apologize.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Well, Your Highness, there's something I... I'd like to explain.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Your honor and integrity will never again be questioned here in Agrabah.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>I...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>A more noble and sincere young man has never graced the chambers of this palace.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Well, uh...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Wow.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Em... I...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I would be honored to call you my son.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Oooh.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <LINE>If that... were something anyone wanted.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 44</TITLE>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>So you got the girl. I mean, trust me, I had my doubts after your whole jam debacle. But you pulled yourself back together a little bit.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I did, didn't I? I think I finally got the hang of being a prince.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Oh, well, that's not exactly what I meant.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>You were right! People see what they wanna see. Aladdin is gone. I'm Prince Ali now.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Wow. Got it all figured out now, huh, kid?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>And you know, I was thinking about my last wish, and I just... I can't do this without you. I know I told you I'd use it to set you free, but you heard the sultan. I can't let everything that we've worked for fall apart.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>So... You just never tell her the truth? You're gonna keep living the lie?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>It's not a lie. People can change.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Heh, oh, they can change, all right.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>And? That's a bad thing? Everything's better now. No one got hurt. You'd rather me be back on the streets stealing to survive? I... thought you'd be happy for me. But all you cared about was that I use my last wish to set you free.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Wow. Kid, I don't care nothin' about that wish. This is about you. What's happening to you. You'd rather lie to somebody you love than give all of this up.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>You don't get it, Genie. People like me don't get anything except by pretending.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I think, maybe, you don't get it. The more you gain by pretending, the less you're actually gonna have. 10,000 years, I have never once, ever... called a master a friend. I broke the rules for you. I saved your life... and for what? You are breaking my heart here, kid. You're breaking my heart.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Abu</RECEIVER>
+      <LINE>Genie, no. Hey, come on!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Abu</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>(Chitters)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <LINE>Lamp. Lamp. Master, Lamp.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 45</TITLE>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Abu</RECEIVER>
+      <LINE>Who does he think he is? He's supposed to serve me. I'm the same as I always was on the inside, right, Abu?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Abu</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>(Screeches)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Hey!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>(Touching a lamp)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Aah! Are you kidding? Now, why would you rub the thing under the...? archway.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <LINE>(Laughing)</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 46</TITLE>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <LINE>Riffraff. Street rat. Would they Think that If they look Much closer? Still, I can't play a prince here No, siree. Gotta tell the truth I can't pretend Even if it means This dream will end Even if She walks away From me.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 47</TITLE>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Jafar. You should have left Agrabah while you had the chance.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Why leave when the city belongs to me now?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>It's over, Jafar.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Oh, good for you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>I've endured your spineless incompetence for long enough.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Hakim.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Old fool.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Genie! For my first wish, I wish to be Sultan of Agrabah.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>What?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>As you wish, master.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>No. Hakim!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Hakim! You obey the sultan. So you obey me now. You know the law, Hakim.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Hakim</RECEIVER>
+      <LINE>No.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Hakim</SPEAKER>
+      <RECEIVER>Guards</RECEIVER>
+      <LINE>My Sultan!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Guards</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>My Sultan! My Sultan!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Hakim. Marshal an army to invade Sherabad.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Sherabad?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>You cannot...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Rajah</RECEIVER>
+      <LINE>I think we've heard enough from you, Princess. It's time you start doing what you should've done all along. Stay silent. Guards! Remove her! Control that cat if you know what's good for you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Rajah</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>(Growling)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Rajah</RECEIVER>
+      <LINE>Rajah.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Rajah</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>(Snarls)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Rajah</RECEIVER>
+      <LINE>Rajah! It's all right.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Rajah</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>(Growls softly)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>(Chuckles)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Don't touch her!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Baba.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Rajah</RECEIVER>
+      <LINE>Jasmine.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Rajah</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>(Whines)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>(Whines)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>And understand it's better for you to be seen and not heard. I think we've heard enough from you, Princess. Stay silence.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Written in stone Every rule, every word Centuries old and unbending Stay in your place Better seen and not heard Well, now that story is ending. 'Cause I I cannot start to crumble. So come on and try. Try to shut me and cut me down. I won't be silenced. You can't keep me quiet. Won't tremble when you try it. All I know is I won't go speechless, Speechless. Let the storm in I cannot be broken. No, I won't live unspoken 'Cause I won't go speechless. Try to lock me in this cage. I won't just lay me down and die. I will take these broken wings. And watch me burn across the sky. And it echoes saying I won't be silenced. Though you wanna see me tremble when you try it. All I know is I won't go speechless. Speechless. 'Cause I'll breathe. When they try to suffocate me. Don't you underestimate me. Cause I know that I won't go speechless. All I know is I won't go speechless. Speechless! Hakim! Hakim!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Take her away! Tell them, Hakim.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>You were just a boy when your father came to work the grounds. But you have risen up to become our most trusted soldier. As a man, I know you to be both loyal and just. But now, you have to choose. Duty isn't always honor. Our greatest challenge isn't speaking up against our enemies, but defying those whose approval we seek the most. Jafar is not worthy of your admiration nor your sacrifice.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>I wish nothing but glory for the Kingdom of Agrabah.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Hakim</RECEIVER>
+      <LINE>No. You seek glory for yourself. And you would win it off the backs of my people! Hakim. These men, they will follow where you lead, but it's up to you. Will you stand silent while Jafar destroys our beloved kingdom? Or will you do what is right... And stand with the people of Agrabah?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Hakim</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>My Princess. Forgive me. My Sultan.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Hakim. Guards! Arrest the Vizier.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Lamp! Rub the lamp.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>So this is how it will be. Not even the title of sultan would wake the herd from their sleep. I should have known. If you won't bow before a sultan, you will cower before a sorcerer. Genie! I wish to become the most powerful sorcerer there is.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>As you wish, master.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>This could be fun.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Hakim. I had such big plans for you. But now... you are no longer of any use to me. Perhaps your men would like to follow you to the dungeon. You too.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Prince Ali!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>If it isn't our Prince Ali... Ali! Or should I say... Aladdin.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Aladdin.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>He's been pretending the entire time. An impostor. There is no Prince Ali. There never was. He's nothing but a lying thief.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>I'm sorry.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>You're insignificant. An irritation I no longer need to tolerate once I... ensure your agonizing death by banishing you to the ends of the earth.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <LINE>No!</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 48</TITLE>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <LINE>No. No. No. Abu!</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 49</TITLE>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>I could simply kill you all. But that would be inadequate repayment for years of humiliation and neglect. "Remember your place, Jafar." "You forget yourself, Jafar."</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Jafar.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>No. What you need, Baba, is to suffer. Like I have suffered.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Baba?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Watching me rule your kingdom be enough?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Stop!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>But watching my armies devour your toothless allies...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Please, make it stop!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>No, the most suitable punishment would be to make you watch - while I take what you love most.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>No! Baba!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>And marry your daughter.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>No!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>No!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>She will never marry you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <LINE>Baba! I will do as you wish! Make it stop! Make it stop. Baba...</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 50</TITLE>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Abu</RECEIVER>
+      <LINE>Abu! Abu! Abu!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Abu</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>(Chitters)</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <LINE>Abut, You okay? Let's get out of here. No!</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 51</TITLE>
+    <SPEECH>
+      <SPEAKER>Imam</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Your Highness, Sultan. In honesty and sincerity, do you accept Princess Jasmine...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Imam</RECEIVER>
+      <LINE>Yes. Yes, I accept. Princess.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Imam</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Princess Jasmine, do you accept the Sultan to be your husband?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Come on, woman!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Accept.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>I...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Yes?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>I... Do not!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>The lamp, the lamp!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Ah! Stop her!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>No, Jasmine! No!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>No! No! The lamp! Iago!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Are you okay?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Yes!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Hold on!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>The lamp!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <LINE>Abu! Carpet, get me up there! Abu! Jump!</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 52</TITLE>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>You are nothing without your staff! Nothing!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <LINE>(Roars)</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 53</TITLE>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>The lamp!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Carpet!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>Jasmine.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Punish them. Punish them. Genie should witness.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>As the old man said, “You should have left Agrabah when you had the chance.” I told you before to think bigger. You could have been the most powerful man in the room. But now, I hold the lamp. I hold the power.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>You can’t find what you’re looking for in that lamp, Jafar. I tried and failed, and so will you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>You think so? But I am Sultan! I am the greatest sorcerer the world has ever seen. I will create an empire that history cannot ignore. I can destroy cities. I can destroy kingdoms. And I can destroy you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>True. But who made you a sultan? Who made you a sorcerer? There will always be some thing, some man, some being more powerful than you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What are you doing?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Genie gave you your power, and he can take it away.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>HE SERVES ME!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>For now. But you'll never have more power than the genie. You said it yourself... you're either the most powerful in the room, or you're nothing. You will always be second.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Second. Second.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Second?! Only second? HE SERVES ME! I will make sure no one will ever say these words again! Genie, for my final wish, I wish to become the most powerful being in the universe. More powerful than you!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>A lot of gray area in that wish. But, uh... most powerful being in the universe, coming right up!</LINE>
+      <LINE>[Genie transforms Jafar into a genie]</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>The most powerful in the universe! At last! Second to NO ONE! And I thought I had power before! First, I'll lay waste to those fools in Sherabad.</LINE>
+      <LINE>[as he tries to use his magic to destroy Sherabad, his own shackles appear]</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What have you done to me?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>I haven't done anything to you, Jafar.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>WHAT HAVE YOU DONE TO ME?!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>This was your wish, not mine. A genie might have phenomenal cosmic powers...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>But an itty-bitty living space. You see, a genie, without a master, goes back in their lamp.</LINE>
+      <LINE>[Jafar's prison lamp appears taking his base]</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Iago</RECEIVER>
+      <LINE>NO! Not the lamp! No, no! I will not forget you, boy. Mark my words, I will not forget what you have done to me!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Iago</SPEAKER>
+      <RECEIVER>Jafar</RECEIVER>
+      <LINE>Goodbye, Jafar.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jafar</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>PARROT! YOU'RE COMING WITH ME! [he grabs Iago as he gets sucked into his lamp] No!</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Baba! Baba.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Come on.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>A couple thousand years in the Cave of Wonders ought to cool you off.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Wait... wait. How can I ever thank you?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Oh, no, no. You don't need to thank me. But I hope you accept my apology. I'm sorry... to the both of you. Especially you. You deserve... so much.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>We all make mistakes.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Aladdin?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I hope you find what you're looking for.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Ooh, that's a bit of a mess there, Abu. Let me take care of that for you. Beautiful. Ah-ah-ah. No. No long faces, all right? I got an idea, all right? It's your last wish. Royalty was the right idea, okay? We should just rip on that a little bit. All right, here's what I'm thinking. Aladdin, warrior prince! A noble heart in a land where thieves run feral. Jasmine! You like it? No? Okay, all right. I hear you loud and clear. But this is what you need. The governing laws of Agrabah by royal decree. Okay, and... here it is! "Must marry a prince." Right. But, you say the words... and this law just kinda like, goes away. You and the princess are in it together forever.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>You can just make the law disappear?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Psshh. Please. Like it never existed. All right. Last wish. Let's get it.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Okay. Last wish. Genie?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>I'm ready. Hold on. Here we go.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I wish...</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Third and final wish.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>I wish...to set you free.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>What? Oh, Wait. Am I? Wait, wait, wait, um... Tell me to do something.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Uh...give me some jams.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>...Get it yourself? Get your own jams!</LINE>
+      <LINE>[Aladdin embraces Genie]</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Thank you. Thank you.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>No. Thank you, Genie. I owe you everything. What are you gonna do now?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>Um... Actually, there is this handmaiden that I would love to travel the world with. If she'll have me.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>When do we leave? Also, I want children.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <LINE>Yes! Two of them!</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 54</TITLE>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Lian and Omar, three years apart. They will worship us both and ask lots of questions. And you will entertain them with stories and songs.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>We'll have a boat.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <LINE>A large one with multiple levels and magnificent sails.</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 55</TITLE>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Dalia</RECEIVER>
+      <LINE>I was thinking more of a smaller one.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Dalia</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>Perfect.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Perfect.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Sit with me, my child. I'm sorry.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Baba, why are you...?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Please, let me finish. I feared losing you. Like I lost your mother. All I saw was my little girl. Not the woman you have become. You have shown me courage and strength. You... are the future of Agrabah. You... shall be the next sultan.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Sultan</RECEIVER>
+      <LINE>Thank you, Baba.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Sultan</SPEAKER>
+      <RECEIVER>Genie</RECEIVER>
+      <LINE>As sultan, you may change the law. He is a good man.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Genie</SPEAKER>
+      <LINE>Where'd he go?</LINE>
+    </SPEECH>
+  </SCENE>
+  <SCENE>
+    <TITLE>SCENE 56</TITLE>
+    <STAGEDIR>[as Aladdin is walking away from the palace]</STAGEDIR>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <RECEIVER>Aladdin</RECEIVER>
+      <LINE>Stop, thief. Your sultan commands it.</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Aladdin</SPEAKER>
+      <RECEIVER>Jasmine</RECEIVER>
+      <LINE>Sultan? Does that mean I'm in trouble?</LINE>
+    </SPEECH>
+    <SPEECH>
+      <SPEAKER>Jasmine</SPEAKER>
+      <LINE>Only because you got caught.</LINE>
+      <LINE>[they kiss, then we see them getting married and celebrating their new life together]</LINE>
+    </SPEECH>
+  </SCENE>
+</PLAY>
